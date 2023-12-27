@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "hw-6",
+		"path": "."
+	},
+	{
+		"name": "img",
+		"path": "../../../Desktop/img"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "hw-6"
+  }
+}
